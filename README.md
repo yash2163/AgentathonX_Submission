@@ -19,7 +19,7 @@ Unlike traditional “text-to-code” tools, InfraMinds prioritizes **system rea
 [https://inframinds-git-main-yash-rajputs-projects-a43c0b6a.vercel.app/)
 
 👉 **Watch the full demo:**  
-**[https://www.youtube.com/watch?v=jvir91s35y0]**
+**[https://youtu.be/Yba56RjaHrI]**
 
 ---
 
